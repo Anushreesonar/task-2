@@ -9,6 +9,8 @@ Duration:August to September 2024
 
 Overview of the project:
 
+ Temperature and humidity monitoring with dht sensor display the readings on an LCD screen
+
 objective
 
 Accurately measuring and tracking ambient conditions in real-time is the goal of temperature and humidity monitoring with a DHT sensor. This sensor is frequently utilised in many different applications, including home automation, agricultural monitoring, and climate control systems. The DHT sensor offers accurate temperature and humidity data by integrating with a microcontroller, allowing for prompt responses to changes in the surrounding environment. The information gathered can be recorded, examined, and applied to improve the environment in certain settings, guaranteeing efficiency, comfort, and safety.
