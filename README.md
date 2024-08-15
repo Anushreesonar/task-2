@@ -22,7 +22,7 @@ Data Analysis:To find trends, abnormalities, or patterns in the temperature and 
  Real-Time Monitoring: presenting real-time data so that customers may rapidly monitor environmental conditions via a user interface, like an LCD screen, web dashboard, or mobile app.
 
 
-
+technologies used
 DHT11 sensor: The primary sensor used to measure temperature and humidity levels. 
 Microcontroller or Development Board: Devices like Arduino, i2c , LCD are used to interface with the DHT sensor, process data, and control the system.
 Data Storage: Local storage or cloud-based databases are used to store the collected data for analysis and long-term monitoring.
