@@ -39,3 +39,4 @@ Data Storage: Local storage or cloud-based databases are used to store the colle
 Power Supply: Power sources, including batteries, USB power, or solar panels, ensure the system operates continuously, especially in remote or off-grid locations.
 
 
+![WhatsApp Image 2024-08-19 at 3 57 27 PM](https://github.com/user-attachments/assets/01c5c3db-e216-4b9e-8bc2-cebb5e87cc1a)
